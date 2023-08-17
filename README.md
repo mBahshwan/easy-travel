@@ -1,16 +1,17 @@
 # easy_travel
 
-A new Flutter project.
+Flutter project helps for tourism.
 
-## Getting Started
+## screenshots
 
-This project is a starting point for a Flutter application.
+<div>
+<img src="https://github.com/mBahshwan/bikeZoon/assets/101920300/00df1aae-83ff-400e-83fd-3e087f729541" height="400" width="250">
+<img src="https://github.com/mBahshwan/bikeZoon/assets/101920300/22ee5594-8929-4874-871a-34febfe52d08" height="400" width="250">
+<img src="https://github.com/mBahshwan/bikeZoon/assets/101920300/763398c7-90f9-4191-a320-b91a9cb68afd" height="400" width="250">
+<img src="https://github.com/mBahshwan/bikeZoon/assets/101920300/00a467ba-bd22-4a40-905a-696e0a1a8a4c" height="400" width="250">
+<img src="https://github.com/mBahshwan/bikeZoon/assets/101920300/9893a959-3946-4ef1-b110-af63985e6529" height="400" width="250">
+<img src="https://github.com/mBahshwan/bikeZoon/assets/101920300/44b423da-1a52-4027-9e49-bc9a3d0af94b" height="400" width="250">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
